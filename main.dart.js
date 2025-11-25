@@ -23549,7 +23549,7 @@ _.d=d},
 aaz(){var s=0,r=A.R(t.wL),q,p,o
 var $async$aaz=A.N(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
-return A.T(A.aHL(A.fB("http://kmc2318.kamiyama.cc:2318/tweets")),$async$aaz)
+return A.T(A.aHL(A.fB("https://kmc2318.kamiyama.cc/tweets")),$async$aaz)
 case 3:p=b
 o=p.b
 if(o!==200)throw A.i(A.e0("Failed: "+o))
@@ -78156,7 +78156,7 @@ case 1:return A.P(q,r)}})
 return A.Q($async$qt,r)},
 uc(){var s=0,r=A.R(t.H),q=this,p,o,n,m
 var $async$uc=A.N(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=A.fB("http://kmc2318.kamiyama.cc:2318/submit")
+while(true)switch(s){case 0:p=A.fB("https://kmc2318.kamiyama.cc/submit")
 o=t.N
 n=A.am(["Content-Type","application/x-www-form-urlencoded"],o,o)
 m=A
